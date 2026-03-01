@@ -1,0 +1,10 @@
+{
+  "version": "1.0.2",
+  "release_date": "2026-02-20",
+  "download_url": "https://github.com/shafiqswat/DramaDown/releases/download/v1.0.2/DramaDown.exe",
+  "changelog": [
+    "In-app update system with real-time download progress",
+    "Semantic version comparison for reliable updates",
+    "Bug fixes and performance improvements"
+  ]
+}
